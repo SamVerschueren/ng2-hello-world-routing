@@ -1,6 +1,7 @@
 # ng2-hello-world-routing
 
-[![Build Status: Linux](https://travis-ci.org/SamVerschueren/ng2-hello-world-routing.svg?branch=master)](https://travis-ci.org/SamVerschueren/ng2-hello-world-routing) [![Build status: Windows](https://ci.appveyor.com/api/projects/status/uj4opfttq770d9nq/branch/master?svg=true)](https://ci.appveyor.com/project/SamVerschueren/ng2-hello-world-ry3w9/branch/master)
+[![Build Status: Linux](https://travis-ci.org/SamVerschueren/ng2-hello-world-routing.svg?branch=master)](https://travis-ci.org/SamVerschueren/ng2-hello-world-routing) [![Build status: Windows](https://ci.appveyor.com/api/projects/status/x4vluxfy5veetexf/branch/master?svg=true)](https://ci.appveyor.com/project/SamVerschueren/ng2-hello-world-routing/branch/master)
+
 
 > Angular2 Hello World treeshaked AoT routing application
 
