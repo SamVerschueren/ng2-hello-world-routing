@@ -1,5 +1,5 @@
 {
-  "name": "ng2-hello-world-aot-rollup",
+  "name": "ng2-hello-world-routing",
   "version": "0.0.0",
   "description": "Angular2 Hello World treeshaked AoT routing application",
   "repository": "SamVerschueren/ng2-hello-world-routing",
