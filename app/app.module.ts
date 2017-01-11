@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
-import { ContactComponent } from './contact/contact.component';
 
 import { routing } from './app.routing';
 
@@ -19,8 +18,7 @@ import { routing } from './app.routing';
 		AppComponent,
 		HeaderComponent,
 		FooterComponent,
-		HomeComponent,
-		ContactComponent
+		HomeComponent
 	],
 	providers: [
 		{ provide: APP_BASE_HREF, useValue: '/' }
